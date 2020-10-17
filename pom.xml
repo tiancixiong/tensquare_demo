@@ -9,10 +9,14 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.tensquare</groupId>
-    <artifactId>tensquare_demo</artifactId>
+    <artifactId>tensquare-demo</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>tensquare_demo</name>
+    <name>tensquare-demo</name>
     <description>十次方中各种入门案例</description>
+
+    <modules>
+        <module>mongodb-demo</module>
+    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
