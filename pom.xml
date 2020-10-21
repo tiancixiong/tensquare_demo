@@ -18,6 +18,7 @@
     <modules>
         <module>mongodb-demo</module>
         <module>rabbitmq-demo</module>
+        <module>jjwt-demo</module>
     </modules>
 
     <properties>
